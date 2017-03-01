@@ -1,0 +1,15 @@
+img{
+  position: fixed;
+  left: 700px;
+  width: 550px;
+
+}
+p{
+  border: 2px solid;
+    padding: 20px;
+    width: 300px;
+    resize: both;
+    overflow: auto;
+    position: relative;
+    bottom: 20px;
+}
